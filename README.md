@@ -1,1 +1,1 @@
-"# medium-1-8" 
+# medium-1-8
